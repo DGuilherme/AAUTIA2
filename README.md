@@ -10,10 +10,12 @@ The user will set as input a small description of what it is intended to search 
 In this project, we are using [Gensim](https://radimrehurek.com/gensim/) Library, in particular, the Doc2vec model to analyse each patent regarding its title and abstract. 
 
 # Table of contents
-| Folder      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Folder      | Description                                 |
+| ----------- | ------------------------------------------- |
+| Doc2Vec     | Gensim Tutorial                             |
+| Dataset     | Several dataset used on our research        |
+| Paper       | Data to be added to the paper               |
+| Deliverable | Final notebooks to be delivered             |
 
 # Sources
 + [Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BW3ACK)
