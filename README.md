@@ -5,6 +5,10 @@ For this challenge we are developing a prototype of a Patent Recomender System b
 
 The user will set as input a small description of what it is intended to search and the system will return as an output the patents that are suited for the situation described.
 
+## Technology
+
+In this project, we are using [Gensim](https://radimrehurek.com/gensim/) Library, in particular, the Doc2vec model to analyse each patent regarding its title and abstract. 
+
 # Table of contents
 | Folder      | Description |
 | ----------- | ----------- |
