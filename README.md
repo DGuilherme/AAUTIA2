@@ -7,7 +7,7 @@ The user will set as input a small description of what it is intended to search 
 
 ## Technology
 
-In this project, we are using [Gensim](https://radimrehurek.com/gensim/) Library, in particular, the Doc2vec model to analyse each patent regarding its title and abstract. 
+In this project, we are using [Gensim](https://radimrehurek.com/gensim/) Library, in particular, the Doc2vec model to analyze each patent regarding its title and abstract. 
 
 # Table of contents
 | Folder      | Description                                 |
