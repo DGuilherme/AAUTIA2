@@ -1,0 +1,24 @@
+028	Textiles: manufacturing
+065	Glass manufacturing
+072	Metal deforming
+073	Measuring and testing
+075	Specialized metallurgical processes, compositions for use therein, consolidated metal powder compositions, and loose metal particulate mixtures
+076	Metal tools and implements, making
+081	Tools
+082	Turning
+083	Cutting
+095	Gas separation: processes
+096	Gas separation: apparatus
+110	Furnaces
+164	Metal founding
+187	Elevator, industrial lift truck, or stationary lift for vehicle
+264	Plastic and nonmetallic article shaping or treating: processes
+266	Metallurgical apparatus
+336	Inductor devices
+373	Industrial electric heating furnaces
+438	Semiconductor device manufacturing: process
+445	Electric lamp or space discharge component or device manufacturing
+493	Manufacturing container or tube from paper; or other manufacturing from a sheet or web
+505	Superconductor technology: apparatus, material, process
+714	Error detection/correction and fault detection/recovery
+716	Computer-aided design and analysis of circuits and semiconductor masks
